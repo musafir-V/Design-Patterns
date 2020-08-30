@@ -1,4 +1,4 @@
-package CoffeStore;
+package Decorator.CoffeStore;
 
 public abstract class AddOnDecorator extends Beverage {
     Beverage beverage;
@@ -6,7 +6,6 @@ public abstract class AddOnDecorator extends Beverage {
     public abstract int cost();
 
     public AddOnDecorator(Beverage beverage) {
-        // super();
         this.beverage = beverage;
     }
 }

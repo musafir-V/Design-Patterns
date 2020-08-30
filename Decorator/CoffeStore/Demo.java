@@ -1,4 +1,4 @@
-package CoffeStore;
+package Decorator.CoffeStore;
 
 import java.util.Scanner;
 

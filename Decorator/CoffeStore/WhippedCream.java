@@ -1,4 +1,4 @@
-package CoffeStore;
+package Decorator.CoffeStore;
 
 public class WhippedCream extends AddOnDecorator {
     public WhippedCream(Beverage beverage) {

@@ -1,4 +1,4 @@
-package CoffeStore;
+package Decorator.CoffeStore;
 
 public class Decaf extends Beverage {
     public Decaf() {

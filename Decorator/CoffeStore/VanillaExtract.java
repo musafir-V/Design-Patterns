@@ -1,4 +1,4 @@
-package CoffeStore;
+package Decorator.CoffeStore;
 
 public class VanillaExtract extends AddOnDecorator {
     public VanillaExtract(Beverage beverage) {
