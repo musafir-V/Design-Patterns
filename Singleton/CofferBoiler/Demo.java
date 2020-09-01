@@ -5,7 +5,8 @@ public class Demo {
         ChocolateBoiler obj2 = ChocolateBoiler.getInstance(false, true);
         ChocolateBoiler obj3 = ChocolateBoiler.getInstance(false, false);
         
-        // These statements shows that all objects (i.e. refer to same object)
+        // These statements shows that all objects (i.e. Obj1, Obj2, Obj2) refer 
+        // to same memory....
         System.out.println(obj1.toString());
         System.out.println(obj2.toString());
         System.out.println(obj3.toString());
