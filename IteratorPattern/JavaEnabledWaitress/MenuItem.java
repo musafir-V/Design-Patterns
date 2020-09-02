@@ -1,10 +1,10 @@
 package IteratorPattern.JavaEnabledWaitress;
 
 public class MenuItem {
-    String name;
-    String description;
-    boolean isVeg;
-    double price;
+    private String name;
+    private String description;
+    private boolean isVeg;
+    private double price;
 
     public MenuItem(String name, String description,
                     boolean isVeg, double price) {
