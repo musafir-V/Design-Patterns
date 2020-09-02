@@ -1,3 +1,5 @@
+package Strategy.DuckStore;
+
 import java.util.Scanner;
 
 public class Demo {

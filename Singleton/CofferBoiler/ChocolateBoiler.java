@@ -1,3 +1,5 @@
+package Singleton.CofferBoiler;
+
 public class ChocolateBoiler {
     private boolean isEmpty;
     private boolean isBoiled;

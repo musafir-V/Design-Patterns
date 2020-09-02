@@ -1,3 +1,5 @@
+package Strategy.DuckStore;
+
 public class Duck {
     IDisplayBehaviour displayBehaviour;
     IQuackBehaviour quackBehaviour;
