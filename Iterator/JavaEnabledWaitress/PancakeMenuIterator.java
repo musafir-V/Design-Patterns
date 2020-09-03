@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 import java.util.ArrayList;
 

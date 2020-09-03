@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 public class Waitress {
     private PancakeMenu pancakeMenu;

@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 public class Demo {
     public static void main(String [] argsStrings) {

@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 public class DinnerMenu implements Menu{
     static final int MAX_ITEMS = 6;

@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 public interface Menu {
     Iterator getIterator();

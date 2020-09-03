@@ -1,4 +1,4 @@
-package IteratorPattern.JavaEnabledWaitress;
+package Iterator.JavaEnabledWaitress;
 
 public class DinnerMenuIterator implements Iterator {
     private MenuItem[] menuItems;
